@@ -48,17 +48,17 @@
 
 ## 🔥 *GitHub Stats & Activity*
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kharus&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kharus&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HashamKhalid138&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HashamKhalid138&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kharus&theme=dracula&margin-w=15" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharus&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HashamKhalid138&theme=dracula&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashamKhalid138&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kharus&theme=tokyonight" width="80%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HashamKhalid138&theme=tokyonight" width="80%"/>
 </p>
 
 ---
