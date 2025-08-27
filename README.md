@@ -10,7 +10,7 @@
 ## 🚀 *About Me*  
 🔹 *Software Engineering Student* 🎓 (COMSATS University, Abbottabad – 7th Semester).  
 🔹 Working on projects in **Java, C#, MERN Stack, Flutter, and Unity Game Development**.  
-🔹 Building my Final Year Project: *Fitness App for Football Players* using **Flutter + AI-based recommendations** 
+🔹 Building my Final Year Project: *Fitness App for Football Players* using **Flutter + AI-based recommendations**.
 🔹 Passionate about **Problem Solving, Game Development, Databases, and Scalable Software Systems**. 
 
 ---
@@ -74,8 +74,8 @@
 
 ## 🌐 *Connect with Me*
 <p align="center">
-  <a href="https://github.com/kharus" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/hasham-khalid-b34197308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/HashamKhalid138" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hasham-khalid-b34197308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:hashamkhalid4848@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
