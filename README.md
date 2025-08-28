@@ -12,11 +12,35 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 *Software Engineering Student* at **COMSATS University, Abbottabad – 7th Semester**  
-- 💡 Building my **Final Year Project**: *Fitness App for Football Players* (*Flutter + AI*)  
-- 🖥️ Skilled in **Java, C#, MERN Stack, Flutter, Unity, Databases**  
-- 🎮 Passionate about **Problem Solving, Game Dev, and Scalable Software Systems**  
-- ⚡ Tech Explorer & Lifelong Learner  
+
+💡 Passionate **Software Engineer** with hands-on experience in **Java, C#, MERN Stack, Flutter, Unity, and Databases**.  
+🎓 Currently pursuing **Software Engineering (7th Semester)** at **COMSATS University, Abbottabad**.  
+🚀 Skilled in **problem-solving, scalable system design, and game development**.  
+⚡ Exploring cutting-edge fields like **AI, and Mobile App Development**.  
+
+---
+
+## 🎯 What I Do  
+
+- ✅ **Full-Stack Development** → MERN, Spring Boot, SQL & MongoDB  
+- ✅ **Mobile Apps** → Flutter & Android Studio  
+- ✅ **Game Development** → Unity (2D/3D), C# scripting  
+- ✅ **Problem Solving** → Java & C# projects with OOP, SOLID, GRASP  
+- ✅ **Academic & Real-World Projects** → From **Library & ATM Systems** to **E-Commerce Bakery Website** and **Blood Bank Management System**  
+
+---
+
+## 🔥 Currently  
+
+- 🏗 Building my **Final Year Project** → *Fitness App for Football Players (Flutter + AI)*
+- 💡 Experimenting with **AI-driven recommendations &  gaming mechanics**  
+
+---
+
+## 🚀 Career Goals  
+
+🎯 To become a **versatile Software Engineer** capable of building **enterprise-level systems, immersive games, and AI-powered apps**.  
+💼 Seeking opportunities in **Full-Stack Development, Game Development, and Emerging Tech (AI)**.  
 
 ---
 
