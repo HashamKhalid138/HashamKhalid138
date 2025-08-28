@@ -1,8 +1,11 @@
-<h1 align="center">👋 Hi, I'm <span style="background: linear-gradient(90deg, #00C4FF, #00FFAA); -webkit-background-clip: text; color: transparent;">Hasham Khalid</span></h1>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hasham%20Khalid%20👨‍💻&width=800&height=150" alt="Hasham Khalid Banner" />
+</p>
+
 <h3 align="center">🚀 Software Engineer | Java Developer | MERN Enthusiast | Game Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile!;Java+%7C+C%23+%7C+MERN+Stack+%7C+Flutter;Unity+%7C+Game+Development+%7C+VR+%7C+AI;Always+Learning+%7C+Always+Building!;Let's+Build+Something+Great+Together!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile!;Java+%7C+C%23+%7C+MERN+Stack+%7C+Flutter;Unity+%7C+Game+Development+%7C+VR+%7C+AI;Always+Learning+%7C+Always+Building!;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
 </p>
 
 ---
@@ -62,19 +65,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashamKhalid138&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4FF" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HashamKhalid138&label=Profile%20Views&color=00C4FF&style=flat-square" alt="profile views"/>
-</p>
-
 ---
 
 ## 💡 Featured Projects  
 
-🔹 [**Fitness App for Football Players**](#) *(Flutter + AI Recommendations)*  
-🔹 [**Blood Bank Management System**](#) *(Java → C# Migration)*  
-🔹 [**Online Bakery Website**](#) *(MERN + E-commerce Features)*  
-🔹 [**ATM & Library Management Systems**](#) *(Java, SQL, 3-Layer Architecture)*  
-🔹 [**Hepta Coding & Travelling Websites**](#) *(React)*  
+🔹 **Fitness App for Football Players** *(Flutter + AI Recommendations)*  
+🔹 **Blood Bank Management System** *(Java → C# Migration)*  
+🔹 **Online Bakery Website** *(MERN + E-commerce Features)*  
+🔹 **ATM & Library Management Systems** *(Java, SQL, 3-Layer Architecture)*  
+🔹 **Hepta Coding & Travelling Websites** *(React)*  
 
 ---
 
