@@ -1,6 +1,11 @@
-<!-- Banner -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:0D1117&height=200&section=header&text=Hasham%20Khalid%20👨‍💻&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hasham%20Khalid%20👨‍💻&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+</p>
+
+<!-- Typing SVG under banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Java+%7C+C%23+%7C+MERN+Stack;Unity+%7C+Game+Dev+%7C+VR+%7C+AI;Always+Learning+%7C+Always+Building;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🚀 Software Engineer | Java Developer | MERN Enthusiast | Game Developer</h3>
@@ -152,8 +157,9 @@
 
 ---
 
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:0D1117&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&animation=twinkling"/>
 </p>
 
-<h3 align="center">⭐ "Code, Create, Innovate!" ⭐</h3>
+<h3 align="center">⭐ Code • Create • Innovate ⭐</h3>
