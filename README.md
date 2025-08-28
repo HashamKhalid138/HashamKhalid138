@@ -1,6 +1,6 @@
-<!-- Animated Banner -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hasham%20Khalid%20👨‍💻&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C4FF&height=230&section=header&text=Hasham%20Khalid%20👨‍💻&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <!-- Typing SVG under banner -->
@@ -154,6 +154,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&text=⭐%20Code%20•%20Create%20•%20Innovate%20⭐&fontSize=28&fontAlign=50&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C4FF&height=160&section=footer&text=⭐%20Code%20•%20Create%20•%20Innovate%20⭐&fontSize=28&fontAlign=50&fontAlignY=65&animation=twinkling&fontColor=ffffff"/>
 </p>
-
