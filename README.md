@@ -1,5 +1,6 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hasham%20Khalid%20👨‍💻&width=800&height=150" alt="Hasham Khalid Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:0D1117&height=200&section=header&text=Hasham%20Khalid%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">🚀 Software Engineer | Java Developer | MERN Enthusiast | Game Developer</h3>
@@ -10,20 +11,20 @@
 
 ---
 
-## 🚀 About Me  
-🎓 *Software Engineering Student* at **COMSATS University, Abbottabad – 7th Semester**.  
-💡 Building my **Final Year Project**: *Fitness App for Football Players* using *Flutter + AI*.  
-🖥️ Skilled in **Java, C#, MERN Stack, Flutter, Unity Game Development, and Databases**.  
-🎮 Passionate about **Problem Solving, Game Development, and Scalable Software Systems**.  
-⚡ Tech explorer & lifelong learner.  
+## 👨‍💻 About Me  
+- 🎓 *Software Engineering Student* at **COMSATS University, Abbottabad – 7th Semester**  
+- 💡 Building my **Final Year Project**: *Fitness App for Football Players* (*Flutter + AI*)  
+- 🖥️ Skilled in **Java, C#, MERN Stack, Flutter, Unity, Databases**  
+- 🎮 Passionate about **Problem Solving, Game Dev, and Scalable Software Systems**  
+- ⚡ Tech Explorer & Lifelong Learner  
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ Tech Stack  
 
 ### 🔹 Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
@@ -58,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HashamKhalid138&theme=darkhub&margin-w=15&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HashamKhalid138&theme=tokyonight&margin-w=15&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
@@ -86,5 +87,21 @@
 </p>
 
 ---
+
+## 📈 Profile Insights  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HashamKhalid138&label=Profile%20Views&color=00C4FF&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HashamKhalid138&theme=react-dark&hide_border=true&bg_color=0D1117&line=00C4FF&point=FFFFFF" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:0D1117&height=120&section=footer" />
+</p>
 
 <h3 align="center">⭐ "Code, Create, Innovate!" ⭐</h3>
