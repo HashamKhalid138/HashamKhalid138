@@ -1,84 +1,87 @@
-<h1 align="center">Hi, I'm Hasham Khalid 👋</h1>
-<h3 align="center">Software Engineer | Java Developer | MERN Enthusiast | Game Developer</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#00C4FF;">Hasham Khalid</span></h1>
+<h3 align="center">🚀 Software Engineer | Java Developer | MERN Enthusiast | Game Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Software+Engineer+%7C+Java+%7C+C%23+%7C+MERN+Stack;Game+Dev+%7C+Unity+%7C+VR+%7C+Flutter+Apps;Passionate+about+Problem+Solving+%26+Tech+Innovation!;Let's+Build+Something+Great+Together!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile!;Java+%7C+C%23+%7C+MERN+Stack+%7C+Flutter;Unity+%7C+Game+Development+%7C+VR+%7C+AI;Always+Learning+%7C+Always+Building!;Let's+Build+Something+Great+Together!">
 </p>
 
 ---
 
-## 🚀 *About Me*  
-🔹 *Software Engineering Student* 🎓 (COMSATS University, Abbottabad – 7th Semester).  
-🔹 Working on projects in **Java, C#, MERN Stack, Flutter, and Unity Game Development**.  
-🔹 Building my Final Year Project: *Fitness App for Football Players* using **Flutter + AI-based recommendations**.   
-🔹 Passionate about **Problem Solving, Game Development, Databases, and Scalable Software Systems**. 
+## 🚀 About Me  
+🎓 *Software Engineering Student* at **COMSATS University, Abbottabad – 7th Semester**.  
+💡 Building my **Final Year Project**: *Fitness App for Football Players* using *Flutter + AI*.  
+🖥️ Skilled in **Java, C#, MERN Stack, Flutter, Unity Game Development, and Databases**.  
+🎮 Passionate about **Problem Solving, Game Development, and Scalable Software Systems**.  
+⚡ Tech explorer & lifelong learner.  
 
 ---
 
-## 🎯 *Tech Stack & Tools*
+## 🛠️ Tech Stack & Tools  
 
-### *Programming Languages:*
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)  
+### 🔹 Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
 
-### *Web & Backend Development:*
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)  
+### 🔹 Web & Backend  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
 
-### *Databases:*
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  
-![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-%23CC2927.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)  
+### 🔹 Databases  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-### *Mobile & Game Development:*
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)  
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)  
+### 🔹 Mobile & Game Dev  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  
 
-### *Tools & IDEs:*
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)   
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)  
+### 🔹 Tools & IDEs  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)  
 
 ---
 
-## 🔥 *GitHub Stats & Activity*
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HashamKhalid138&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HashamKhalid138&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HashamKhalid138&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4FF&icon_color=00C4FF" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HashamKhalid138&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C4FF&ring=00C4FF" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HashamKhalid138&theme=dracula&margin-w=15" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashamKhalid138&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HashamKhalid138&theme=darkhub&margin-w=15&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HashamKhalid138&theme=tokyonight" width="80%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashamKhalid138&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4FF" />
 </p>
 
 ---
 
-## 💡 *Top Projects*
-🚀 *Fitness App for Football Players (Flutter + AI Recommendations)*  
-🚀 *Blood Bank Management System (Java → C# Migration)*  
-🚀 *Online Bakery Website (MERN + E-commerce Features)*  
-🚀 *ATM & Library Management Systems (Java, SQL, 3-Layer Architecture)*  
-🚀 *Hepta Coding & Travelling Websites (React)*  
+## 💡 Featured Projects  
+
+🔹 **Fitness App for Football Players** *(Flutter + AI Recommendations)*  
+🔹 **Blood Bank Management System** *(Java → C# Migration)*  
+🔹 **Online Bakery Website** *(MERN + E-commerce Features)*  
+🔹 **ATM & Library Management Systems** *(Java, SQL, 3-Layer Architecture)*  
+🔹 **Hepta Coding & Travelling Websites** *(React)*  
 
 ---
 
-## 🌐 *Connect with Me*
+## 🌐 Connect with Me  
+
 <p align="center">
-  <a href="https://github.com/HashamKhalid138" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/hasham-khalid-b34197308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/HashamKhalid138" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hasham-khalid-b34197308" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:hashamkhalid4848@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-⭐ *"Code, Create, Innovate!"* ⭐
+<h3 align="center">⭐ "Code, Create, Innovate!" ⭐</h3>
