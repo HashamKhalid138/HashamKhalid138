@@ -34,7 +34,6 @@
 
 - 🏗 Working on my **Final Year Project** → *Fitness App for Football Players (Flutter + AI)*  
 - 🤖 Experimenting with **AI-driven recommendations & gamification**  
-- 🚀 Migrating **large-scale academic systems from Java → C#**  
 
 ---
 
