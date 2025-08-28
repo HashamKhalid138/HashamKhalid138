@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Java+%7C+C%23+%7C+MERN+Stack;Unity+%7C+Game+Dev+%7C+VR+%7C+AI;Always+Learning+%7C+Always+Building;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 Software Engineer | Java Developer | MERN Enthusiast | Game Developer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile!;Java+%7C+C%23+%7C+MERN+Stack+%7C+Flutter;Unity+%7C+Game+Development+%7C+VR+%7C+AI;Always+Learning+%7C+Always+Building!;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me  
