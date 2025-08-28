@@ -22,11 +22,11 @@
 
 ## 🎯 What I Do  
 
-- ✅ **Full-Stack Development** → MERN, Spring Boot, SQL & MongoDB  
-- ✅ **Mobile Apps** → Flutter & Android Studio  
-- ✅ **Game Development** → Unity (2D/3D), C# scripting  
-- ✅ **Problem Solving** → Java & C# projects with OOP, SOLID, GRASP  
-- ✅ **Academic & Real-World Projects** → From **Library & ATM Systems** to **E-Commerce Bakery Website** and **Blood Bank Management System**  
+- **Full-Stack Development** → MERN, Spring Boot, SQL & MongoDB  
+- **Mobile Apps** → Flutter & Android Studio  
+- **Game Development** → Unity (2D/3D), C# scripting  
+- **Problem Solving** → Java & C# projects with OOP, SOLID, GRASP  
+- **Academic & Real-World Projects** → From **Library & ATM Systems** to **E-Commerce Bakery Website** and **Blood Bank Management System**  
 
 ---
 
